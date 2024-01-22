@@ -1,0 +1,20 @@
+.bold{
+    font-weight: 700;
+}
+.big{
+    font-size:larger;
+}
+.small {
+    font-size: smaller;
+}
+.greenbutton{
+    background-color:green;
+    color: white;
+}
+.whitebutton{
+    background-color: white;
+
+}
+div{
+    font-weight: 100;
+}
